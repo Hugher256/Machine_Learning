@@ -1,0 +1,47 @@
+body {
+    margin-top: 5rem;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px
+}
+
+table {
+    padding-top: 20px;
+    margin: auto;
+    /*top, right, bottom, left */
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+#cellone {
+    width: 150px;
+    height: 300px;
+    background: #e63946;
+}
+
+#celltwo {
+    width: 150px;
+    height: 300px;
+    background: #f1faee;
+}
+
+#cellthree {
+    width: 150px;
+    height: 300px;
+    background: #a8dadc;
+}
+
+#cellfour {
+    width: 150px;
+    height: 300px;
+    background: #457b9d;
+}
+
+#cellfive {
+    width: 150px;
+    height: 300px;
+    background: #1d3557;
+}
